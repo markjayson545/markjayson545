@@ -6,8 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-<iframe src="https://github.com/sponsors/markjayson545/card" title="Sponsor markjayson545" height="225" width="600" style="border: 0;"></iframe>
-
 ## 🚀 About Me
 
 ```javascript
